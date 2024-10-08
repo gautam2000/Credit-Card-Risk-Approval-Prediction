@@ -19,3 +19,10 @@ Note –
 
 ●	STATUS ---> 0: 1-29 days past due 1: 30-59 days past due 2: 60-89 days overdue 3: 90-119 days overdue 4: 120-149 days overdue 5: Overdue or bad debts, writeoffs for more than 150 days C: paid off that month X: No loan for the month 
 
+# Scope :
+
+●	Understand data by performing exploratory data analysis 
+●	Training and building classification algorithm to predict if a customer will be approved with credit card or not 
+●	Understand feature importance and improve the model 
+●	Understand various model performance metrics and measure the performance of each model 
+

@@ -8,16 +8,8 @@ The task is to analyze and build a predictive model that can accurately determin
  
 They have given a problem to identify the customers segments which are eligible for Credit Card approval, so that they can specifically target these customers. 
 
-Column                  Description 
-ID 	                    Unique Id of the row  
-CODE_GENDER 	           Gender of the applicant. M is male and F is female.  
-FLAG_OWN_CAR	           Is an applicant with a car? Y is Yes and N is NO.
-FLAG_OWN_REALTY 	       Is an applicant with realty? Y is Yes and N is No. 
-CNT_CHILDREN 	          Count of children. 
-AMT_INCOME_TOTAL 	      the amount of the income. 
-NAME_INCOME_TYPE 	      The type of income (5 types in total). 
-NAME_EDUCATION_TYPE 	   The type of education (5 types in total). 
-NAME_FAMILY_STATUS 	    The type of family status (6 types in total). 
+![image](https://github.com/user-attachments/assets/3c8349e6-08bc-4c10-974d-85ddd9a80a69)
+
 
  
 Note – 

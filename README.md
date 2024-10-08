@@ -8,6 +8,7 @@ The task is to analyze and build a predictive model that can accurately determin
  
 They have given a problem to identify the customers segments which are eligible for Credit Card approval, so that they can specifically target these customers. 
 
+# Dataset:
 ![image](https://github.com/user-attachments/assets/3c8349e6-08bc-4c10-974d-85ddd9a80a69)
 
 
